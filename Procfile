@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath app
+worker: python DiscordBot.py
